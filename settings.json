@@ -1,0 +1,39 @@
+{
+  "token": "vk1.a.3zVfd9vi1UMuVuI-PV4ZX3yeQIk08DJ0Z9fTiaLA7HtvhJP3tOE19L9sspLS_UCzmTwvl_Imxujr5kZ0YsU_eBDR-6c0QPTghlBFTM-Rbevxp4jcYPQgryyDVXVrZo6-dy-p30T-MlOunUPwpDhMyIyl4S0i7l_hY8wf-rOb_YyDV9sAKsIsnLdmWb459F-6BB6C3dkmjpz7_h4VFlwPgQ",
+  "group_id": 221354730,
+  "chat_id": 2000000002,
+  "user_token": "vk1.a.uNyvB4aHAkhaOEZ5sdFqQaGNACGcdhYbsaTiUJbh-yRtjGA2xIFxgJmyMKbg9aL3oB8BAtj8W3oVndIwPcNseBm2wv8-GlWP-JvOeo_Qoj8BITnwNhKorfRi8ebt6NStfoS-BcEukH-BuEMjyYVqj071dl02i31sMdZA6-cGY4XM462g5R899a_v9tz9Rkg42Rvgb3NJqR1kml-0q4Ai1w",
+  "min_role_for_admin_panel": 4,
+  "reports_money": {
+    "mute": 5,
+    "ban": 8
+  },
+  "shop": {
+    "otpusk_7_days": {
+      "price": 1700
+    },
+    "otpusk_5_days": {
+      "price": 1200
+    },
+    "otpusk_3_days": {
+      "price": 700
+    },
+    "case": {
+      "price": 200
+    },
+    "donate_money_100": {
+      "price": 350
+    },
+    "donate_money_200": {
+      "price": 500
+    },
+    "donate_money_500": {
+      "price": 800
+    }
+  },
+  "photos": {
+    "report_yes": "photo-221354730_457239417",
+    "report_no": "photo-221354730_457239418"
+  },
+  "admins": [690798575, 490940024, 703774001]
+}
